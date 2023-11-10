@@ -1,0 +1,15 @@
+jupyterlab==3.6.3
+dask-labextension
+dask-gateway
+ipywidgets
+jupyter-resource-usage<1.0.0
+jupyter-server-proxy
+jupyter_bokeh
+jupyterlab_widgets
+jupyterlab-git
+jupyterlab-s3-browser>=0.12
+jupyter-matlab-proxy
+nb_search
+nbdime
+nbgitpuller
+voila
