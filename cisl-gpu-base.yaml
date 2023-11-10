@@ -1,7 +1,8 @@
 name: cisl-gpu-base
 channels:
   - conda-forge
-  - r
+  - pytorch
+  - rapidsai
 dependencies:
   - flax
   - jax
@@ -10,6 +11,8 @@ dependencies:
   - catboost
   - pyvista[all,trame]
   - pyvista-xarray
+  - cupy
+  - rapids
   - torch
   - torchaudio
   - torchvision
