@@ -6,9 +6,7 @@ name: Tensorflow Build & Push
 # Define the trigger that starts the action
 # For this workflow the trigger is on a push that changes anything in the configs/jupyter/base-notebook/ path
 on:
-  push:
-    paths:
-      - configs/jupyter/gpu-tf-notebook/**
+  push
 
 # Define the actions that are going to take place as part of this workflow    
 jobs:
