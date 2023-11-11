@@ -13,9 +13,9 @@ dependencies:
   - pyvista-xarray
   - cupy
   - rapids
-  #Test
-  - torchaudio
-  - torchvision
+#  - torch
+#  - torchaudio
+#  - torchvision
   - argopy
   - arm_pyart
   - astropy
