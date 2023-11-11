@@ -13,6 +13,7 @@ dependencies:
   - pyvista-xarray
   - cupy
   - rapids
+  #Test
   - torchaudio
   - torchvision
   - argopy
