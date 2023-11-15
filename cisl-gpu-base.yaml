@@ -12,7 +12,7 @@ dependencies:
   - pyvista[all,trame]
   - pyvista-xarray
   - cupy
-  - rapids
+#  - rapids
 #  - torch
 #  - torchaudio
 #  - torchvision
